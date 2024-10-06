@@ -4,12 +4,14 @@
 
 However my biggest acchivement was actually being able to make a functional cookie clicker after my first attempt which was a pure mess
 
-## external help
+### external help
 
 Got to give a Big thank you to both Ashir and Anu as they helped me with lost of debugging
 
-# User stories
+## User stories
 
-🐿️ 1 - As a user, I want the application to save and retrieve my game data so that my progress is preserved even when I close and reopen the game.
-🐿️ 2 - As a developer, I want the application to use an API to retrieve upgrade information so that users can access current upgrade details and seamlessly integrate them into their gameplay.
-🐿️ 3 - As a user, I want the application to have excellent UI styling so that it is visually appealing and provides a pleasant and intuitive experience while playing the game.
+- 🐿️ 1 - As a user, I want the application to save and retrieve my game data so that my progress is preserved even when I close and reopen the game.
+
+- 🐿️ 2 - As a developer, I want the application to use an API to retrieve upgrade information so that users can access current upgrade details and seamlessly integrate them into their gameplay.
+
+- 🐿️ 3 - As a user, I want the application to have excellent UI styling so that it is visually appealing and provides a pleasant and intuitive experience while playing the game.

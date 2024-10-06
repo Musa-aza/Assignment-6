@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "rodName": "Spinning Rod",
+    "disc": "Hello! We are Beginner level buddys. We would like to joins your team to grow in our experience.",
+    "increase": 1,
+    "cost": 20
+  },
+  {
+    "id": 2,
+    "rodName": "Telescopic Rod",
+    "disc": "Hello! We are Intermediate level buddys. We know quite a bit but would still like to joins your team.",
+    "increase": 5,
+    "cost": 85
+  },
+  {
+    "id": 3,
+    "rodName": "Baitcasting Rod",
+    "disc": "Hello! We are Advanced level buddys. We would like to help you for a certain amout of fish.",
+    "increase": 11,
+    "cost": 140
+  },
+  {
+    "id": 4,
+    "rodName": "Fly Fishing Rod",
+    "disc": "Hello! We are Expert level buddys. We will teach you how its done.",
+    "increase": 17,
+    "cost": 170
+  },
+  {
+    "id": 5,
+    "rodName": "Trolling Rod",
+    "disc": "Hello! We are Professional level buddys. We all own Trolling Rod, what more can we say.",
+    "increase": 22,
+    "cost": 200
+  }
+]

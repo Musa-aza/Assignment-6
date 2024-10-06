@@ -1,0 +1,17 @@
+::selection {
+  color: black;
+  background-color: red;
+}
+* {
+  background-color: rgb(14, 19, 20);
+}
+.buddy {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  list-style: 0;
+}
+.title {
+  position: relative;
+  text-align: center;
+}

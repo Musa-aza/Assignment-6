@@ -1,0 +1,31 @@
+::selection {
+  color: black;
+  background-color: red;
+}
+* {
+  background-color: lightblue;
+}
+.title {
+  position: relative;
+  text-align: center;
+  text-size-adjust: 90px;
+}
+@media all and (min-width: 768px) {
+  .buddy {
+    display: flex;
+    gap: 2rem;
+    border: 10px solid blue;
+  }
+  .buddy > * {
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: 0px;
+  }
+}
+
+@media all and (max-width: 768px) {
+  .buddy {
+    position: relative;
+    text-align: center;
+  }
+}
